@@ -40,6 +40,16 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>dev.aspectj</groupId>
+			<artifactId>aspectj-maven-plugin</artifactId>
+			<version>1.13</version>
+		</dependency>
 	</dependencies>
 
 	<build>
